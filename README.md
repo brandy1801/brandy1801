@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Dhage
+- - 🌱 Computer Engineer
 - 👀 I’m interested in web development
-- 🌱 I’m currently pursuing Computer Engineering
 - 📫 How to reach me @amitdhage0101@gmail.com
 
 
